@@ -16,3 +16,5 @@ const CollectionPreview = ({ title, items }) => (
 );
 
 export default CollectionPreview;
+
+// Styling shop page
