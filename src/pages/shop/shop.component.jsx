@@ -26,3 +26,5 @@ class ShopPage extends React.Component {
 }
 
 export default ShopPage;
+
+// Creating header component.
