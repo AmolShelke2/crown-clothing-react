@@ -22,5 +22,3 @@ function App() {
 }
 
 export default App;
-
-// Creating SignUp form and Register form component.
