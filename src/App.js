@@ -21,4 +21,4 @@ function App() {
 
 export default App;
 
-// Introducing Forms in React
+// Creating SignUp form and Register form component.
