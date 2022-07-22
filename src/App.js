@@ -23,4 +23,4 @@ function App() {
 
 export default App;
 
-// Firebase introduction
+// Adding a project to FireBase
