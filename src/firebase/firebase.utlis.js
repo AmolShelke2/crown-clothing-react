@@ -23,4 +23,4 @@ export const signInWithGoogle = () => auth.signInWithPopup(provider);
 
 export default firebase;
 
-// Learnt intro to firebase firestore and collection 
+// Storing our users to the firebase.
