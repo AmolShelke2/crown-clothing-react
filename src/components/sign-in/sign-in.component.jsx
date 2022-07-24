@@ -67,5 +67,3 @@ class SignIn extends React.Component {
 }
 
 export default SignIn;
-
-// Creating Custom buttom component
