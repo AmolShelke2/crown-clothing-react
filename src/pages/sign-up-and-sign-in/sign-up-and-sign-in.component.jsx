@@ -14,4 +14,4 @@ const SignInAndSignUpPage = () => (
 
 export default SignInAndSignUpPage;
 
-// Learnt overview of Readux
+// Redux Introduction
