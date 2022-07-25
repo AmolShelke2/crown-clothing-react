@@ -13,3 +13,5 @@ const SignInAndSignUpPage = () => (
 );
 
 export default SignInAndSignUpPage;
+
+// completed Firebase section
