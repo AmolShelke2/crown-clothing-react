@@ -99,5 +99,3 @@ class SignUp extends React.Component {
 }
 
 export default SignUp;
-
-// Going through all the code once again.
