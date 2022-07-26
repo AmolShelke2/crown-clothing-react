@@ -58,4 +58,4 @@ class App extends React.Component {
 
 export default App;
 
-// Learnt Redux concepts
+// Redux in our Application
