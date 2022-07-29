@@ -45,7 +45,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Header currentUser={this.state.currentUser} />
+        <Header />
         <Switch>
           <Route exact path="/" component={HomePage} />
           <Route path="/shop" component={ShopPage} />
@@ -57,5 +57,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-// Setting up Redux

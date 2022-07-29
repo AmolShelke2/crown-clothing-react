@@ -16,5 +16,3 @@ root.render(
     </BrowserRouter>
   </Provider>
 );
-
-// Learning connect and mapStateToProps
