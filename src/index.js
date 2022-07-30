@@ -16,5 +16,3 @@ root.render(
     </BrowserRouter>
   </Provider>
 );
-
-// Implementing Redux in Cart
