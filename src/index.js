@@ -16,3 +16,5 @@ root.render(
     </BrowserRouter>
   </Provider>
 );
+
+// Done with Cart component and Dropdown component
