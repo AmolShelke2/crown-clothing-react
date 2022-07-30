@@ -17,4 +17,4 @@ root.render(
   </Provider>
 );
 
-// Creating Cart DropDown Component
+// Implementing Redux in Cart
