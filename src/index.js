@@ -17,4 +17,4 @@ root.render(
   </Provider>
 );
 
-// Working on Add to cart functionality
+// Working on Cart Item Reducer
