@@ -17,4 +17,4 @@ root.render(
   </Provider>
 );
 
-// Done with Cart component and Dropdown component
+// Working on Add to cart functionality
