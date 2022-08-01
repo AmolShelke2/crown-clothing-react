@@ -16,3 +16,5 @@ root.render(
     </BrowserRouter>
   </Provider>
 );
+
+// Learning selectors in Redux
