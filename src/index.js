@@ -16,5 +16,3 @@ root.render(
     </BrowserRouter>
   </Provider>
 );
-
-// Working on  Adding Multiple item to the cart
