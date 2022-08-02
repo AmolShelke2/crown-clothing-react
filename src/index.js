@@ -17,4 +17,4 @@ root.render(
   </Provider>
 );
 
-// Creating Checkout Page
+// CheckOut Page part 2
