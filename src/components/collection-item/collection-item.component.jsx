@@ -28,4 +28,4 @@ const mapDispatchToProps = (dispatch) => ({
 
 export default connect(null, mapDispatchToProps)(CollectionItem);
 
-// Remove items from cart
+//Creating Remove items from cart
