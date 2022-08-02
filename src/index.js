@@ -17,4 +17,4 @@ root.render(
   </Provider>
 );
 
-// CheckOut Page part 2
+// Learning Theory lecture Extensible code.
