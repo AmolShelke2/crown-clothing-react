@@ -20,4 +20,4 @@ root.render(
   </Provider>
 );
 
-// Master project Redux 2
+// Directory state in Redux
