@@ -19,5 +19,3 @@ root.render(
     </BrowserRouter>
   </Provider>
 );
-
-// Directory state in Redux
