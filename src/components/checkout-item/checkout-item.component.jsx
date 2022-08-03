@@ -42,5 +42,3 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 export default connect(null, mapDispatchToProps)(CheckoutItem);
-
-// Completed Redux 1 Section
