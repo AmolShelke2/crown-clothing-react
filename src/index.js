@@ -19,3 +19,5 @@ root.render(
     </BrowserRouter>
   </Provider>
 );
+
+// Master project Redux 2
