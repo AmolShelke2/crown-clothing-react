@@ -9,3 +9,5 @@ const ShopPage = ({ collections }) => (
 );
 
 export default ShopPage;
+
+// Advance routing Nesting routing in shop page.
