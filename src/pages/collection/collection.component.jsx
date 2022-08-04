@@ -14,3 +14,5 @@ const collectionPage = ({ match }) => {
 };
 
 export default collectionPage;
+
+// Collection Routing and selector
