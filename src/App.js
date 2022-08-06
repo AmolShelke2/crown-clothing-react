@@ -74,4 +74,4 @@ const mapDispatchToProps = (dispatch) => ({
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
 
-// Intro to Stripe
+// Done with Stripe Introduction
