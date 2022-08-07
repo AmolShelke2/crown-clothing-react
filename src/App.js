@@ -73,5 +73,3 @@ const mapDispatchToProps = (dispatch) => ({
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
-
-// Finished our App and Looking Ahead to our learnings;
