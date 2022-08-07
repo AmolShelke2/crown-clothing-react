@@ -74,4 +74,4 @@ const mapDispatchToProps = (dispatch) => ({
 
 export default connect(mapStateToProps, mapDispatchToProps)(App);
 
-// Deployed to Vercel App
+// Optimizing Production Build
